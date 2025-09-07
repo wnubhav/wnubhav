@@ -58,11 +58,18 @@
 
 ---
 
-## ✍️ Dev Quote of the Day
+
 
 ### 📜 Dev Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
+## 🔝 Top Repositories  
+
+- 🚀 [Wimbledon Predictor](https://github.com/wnubhav/wimbledon-predictor) – Predicts the winner of Wimbledon 2025 using XGBoost.
+- 📊 [Ipl Win Probability Predictor](https://github.com/wnubhav/ipl-win-predictor) – Calculates win probability of teams during a live IPL match. 
+- 🤖 [https://github.com/wnubhav/Walmart-Sparkathon](https://github.com/YOUR_USERNAME/Project-C) – AI-powered supply chain optimization dashboard for intelligent inventory management and dynamic pricing.  
+ 
 
 _Thanks for visiting! Let's build something cool together 🚀_
