@@ -1,7 +1,6 @@
-## Hi there 👋
 # 👋 Hey, I'm Anubhav Bhattacharya
 
-🔭 I’m a pre-final year Computer Science student at IIEST Shibpur, currently maintaining a CGPA of 8.84.
+🔭 A pre-final year Computer Science student at IIEST Shibpur, currently maintaining a CGPA of 8.84.
 
 👯 Passionate about Machine Learning and Deep Learning, with strong skills in Natural Language Processing, Data Science, and advanced ML techniques. 
   
